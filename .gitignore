@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+vendor/bto_advanced_USBIR_cmd-1.0.1/*.o
+vendor/bto_advanced_USBIR_cmd-1.0.1/bto_advanced_USBIR_cmd

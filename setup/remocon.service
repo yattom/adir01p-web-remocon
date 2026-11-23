@@ -1,0 +1,14 @@
+# User と各パスは環境に合わせて書き換える
+[Unit]
+Description=Remocon web server (ADIR01P)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=pi
+WorkingDirectory=/home/pi/remote_remocon
+ExecStart=/home/pi/remote_remocon/.venv/bin/python app.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,2 @@
+# Bit Trade One ADIR01P (USB IR Remote Controller Advance) を plugdev グループから使えるようにする
+SUBSYSTEM=="usb", ATTR{idVendor}=="22ea", ATTR{idProduct}=="003a", MODE="0660", GROUP="plugdev"

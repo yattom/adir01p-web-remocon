@@ -1,0 +1,18 @@
+[
+  {"id": "tv_power",    "label": "テレビ電源"},
+  {"id": "ch_up",       "label": "∧"},
+  {"id": "ch_down",     "label": "∨"},
+  {"id": "vol_up",      "label": "＋"},
+  {"id": "vol_down",    "label": "－"},
+  {"id": "netflix",     "label": "NETFLIX"},
+  {"id": "terrestrial", "label": "地上"},
+  {"id": "bs",          "label": "BS"},
+  {"id": "rec_list",    "label": "録画一覧"},
+  {"id": "epg",         "label": "番組表"},
+  {"id": "up",          "label": "▲"},
+  {"id": "down",        "label": "▼"},
+  {"id": "left",        "label": "◀"},
+  {"id": "right",       "label": "▶"},
+  {"id": "ok",          "label": "決定"},
+  {"id": "back",        "label": "↩"}
+]
