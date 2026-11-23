@@ -128,7 +128,7 @@ MIT License（`LICENSE` を参照）。
 
 ## 参考
 
-- [ADIR01P 製品ページ](https://bit-trade-one.co.jp/product/module/adir01p/)
-- [ADIR01P メーカー GitHub（寸法図・回路図・FAQ）](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance)
-- [ラズパイで ADIR01P を使う（hymd3a）](https://hymd3a.hatenablog.com/entry/2021/05/11/193506)
-- [ラズパイで ADIR01P を使う（ponkichi）](https://ponkichi.blog/smart-remocon/)
+- [ADIR01P USB赤外線リモコンアドバンス – Bit Trade One](https://bit-trade-one.co.jp/product/module/adir01p/)
+- [GitHub - bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance](https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance)（寸法図・回路図・FAQ）
+- [Raspberry Pi3 でUSB赤外線リモコンを使う（ADIR01P) - ひゃまだのblog](https://hymd3a.hatenablog.com/entry/2021/05/11/193506)
+- [ラズパイでイケてるスマートリモコンを作ろう！赤外線制御で家電のIoT化](https://ponkichi.blog/smart-remocon/)
